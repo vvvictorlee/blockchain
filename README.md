@@ -23,3 +23,6 @@
 ### 资讯
 - [巴比特](http://www.8btc.com)
 - [火星财经](http://www.huoxing24.com/)
+### 仓库
+- [Awesome Blockchain](https://github.com/chaozh/awesome-blockchain-cn) - 收集所有区块链(BlockChain)技术开发相关资料
+- [Love-Ethereum](https://github.com/xianfeng92/Love-Ethereum) - 一个区块链技术学习框架
