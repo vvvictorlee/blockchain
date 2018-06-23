@@ -14,7 +14,7 @@
 - [ethgasstation](https://ethgasstation.info/index.php) - 查看gas信息
 ## 星云链
 ### 文档
-- [wiki](wiki)
+- [wiki](https://github.com/nebulasio/wiki/wiki)
 ### sdk
 - [浏览器](https://explorer.nebulas.io/#/)
 - [nebPay](https://github.com/nebulasio/nebPay) - 支付sdk
