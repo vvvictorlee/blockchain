@@ -15,6 +15,7 @@
 ## 星云链
 ### 文档
 - [wiki](https://github.com/nebulasio/wiki/wiki)
+- [入门教程](https://blog.nebulas.io/2018/04/28/nebulas-incentive-program%E2%80%8A-%E2%80%8A-demo/)
 ### sdk
 - [浏览器](https://explorer.nebulas.io/#/)
 - [nebPay](https://github.com/nebulasio/nebPay) - 支付sdk
