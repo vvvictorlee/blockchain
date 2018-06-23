@@ -35,3 +35,6 @@
 - [Awesome Blockchain](https://github.com/chaozh/awesome-blockchain-cn) - 区块链技术开发相关资料
 - [Love-Ethereum](https://github.com/xianfeng92/Love-Ethereum) - 一个区块链技术学习框架
 - [EOS-Dapp](https://github.com/PeterHuZQ/EOS-Dapp)
+## 其他
+- [区块链书籍](https://sale.jd.com/act/dqtmRyTIuQkFHG4.html?cu=true&utm_source=segmentfault.com&utm_medium=tuiguang&utm_campaign=t_1000470991_&utm_term=7caaffb4dd9e4147ba7e5fd2ce98325c&abt=3)
+
