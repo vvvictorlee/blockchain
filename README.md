@@ -42,4 +42,4 @@
 - [Super Dictionary](https://github.com/15010159959/super-dictionary) - 星云词典
 ## 其他
 - [区块链书籍](https://sale.jd.com/act/dqtmRyTIuQkFHG4.html?cu=true&utm_source=segmentfault.com&utm_medium=tuiguang&utm_campaign=t_1000470991_&utm_term=7caaffb4dd9e4147ba7e5fd2ce98325c&abt=3)
-
+- [汇智网中文文档](http://cw.hubwiz.com/card/c)
