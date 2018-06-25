@@ -5,6 +5,7 @@
 ### 文档
 - [wiki](https://github.com/ethereum/wiki/wiki)
 - [web3js-api](https://github.com/ethereum/wiki/wiki/JavaScript-API)
+- [web3js 1.0-api](http://web3js.readthedocs.io/en/1.0/index.html)
 - [solidity](https://solidity.readthedocs.io/en/v0.4.24/)
 ### SDK
 - [geth](https://github.com/ethereum/go-ethereum) - 客户端
