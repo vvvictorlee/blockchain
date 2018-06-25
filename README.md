@@ -26,6 +26,8 @@
 - [tryblockchain](http://me.tryblockchain.org/)
 - [丑胖侠](https://blog.csdn.net/column/details/13651.html)
 - [shuke0327](https://www.jianshu.com/u/29f865fe3598)
+- [redbutterfly](https://www.jianshu.com/u/32a4f66e419b)
+- [学习软件编程](http://blog.hubwiz.com/)
 ## 社区
 - [Bitshuo](https://bitshuo.com/) - 区块链技术开源社区
 - [eosfans](https://eosfans.io/) - eos中文社区
